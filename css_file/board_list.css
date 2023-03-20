@@ -1,0 +1,166 @@
+.table{
+    position: absolute;
+    width: 700px;
+    height: 282.5px;
+    left: 251px;
+    top: 132px;
+
+    background: #D9E2E4;
+}
+
+body{
+  
+    position: relative;
+    width: 1366px;
+    height: 768px;
+    background: #EBD9D9;
+}
+
+.board{  
+    position: absolute;
+    width: 1326px;
+    height: 723px;
+    left: 18px;
+    top: 19px;
+    background: #FFFFFF;
+}
+
+.name{
+    background: #CCDDE7;
+    height: 23.5px;
+}
+
+.content{
+    background: #f7f7f7;
+    height: 23.5px;
+}
+
+h1{
+    position: absolute;
+    width: 260px;
+    height: 28px;
+    left: 480px;
+    top: 10px;
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 48px;
+    color: #414141;
+}
+
+.nbutton{
+    box-sizing: border-box;
+    position: absolute;
+    width: 68px;
+    height: 31px;
+    left: 882px;
+    top: 572px;
+    
+    background: #CCDDE7;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    font-weight: 60;
+    color: #414141
+}
+
+.pbutton{
+    box-sizing: border-box;
+    position: absolute;
+    width: 68px;
+    height: 31px;
+    left: 251px;
+    top: 572px;
+    
+    background: #CCDDE7;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    font-weight: 60;
+    color: #414141
+}
+
+.p{
+    position: absolute;
+    width: 283px;
+    height: 181px;
+    left: 987px;
+    top: 44px;
+    background: #EBF4FA;
+}
+
+.f{
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    left: 1001px;
+    top: 56px;
+    border-radius: 50px;
+    background: #FFFFFF;
+}
+
+p{
+    font-size: 54px;
+    margin: 0px;
+}
+
+h2{
+    position: absolute;
+    width: 160px;
+    height: 20px;
+    left: 1088px;
+    top:45px;
+
+    font-family: 'Hind Kochi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 33px;
+
+    color: #363434;
+}
+
+h3{
+    position: absolute;
+    width: 150px;
+    height: 20px;
+    left: 1088px;
+    top: 87px;
+    font-family: 'Hind Kochi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 33px;
+    color: #363434;
+}
+
+.write{
+    box-sizing: border-box;
+    position: absolute;
+    width: 68px;
+    height: 31px;
+    left: 1018px;
+    top: 166px;
+    background: #fbfbfb;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    border-radius: 10px;
+    font-weight: 60;
+    color: #414141;
+}
+
+.logout{
+    box-sizing: border-box;
+    position: absolute;
+    width: 68px;
+    height: 31px;
+    left: 1176px;
+    top: 166px;
+    background: #fbfbfb;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    border-radius: 10px;
+    font-weight: 60;
+    color: #414141;
+}
